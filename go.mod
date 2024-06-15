@@ -1,3 +1,3 @@
-module golang
+module golangPractice
 
 go 1.22.4
