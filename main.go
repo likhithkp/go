@@ -1,14 +1,11 @@
 package main
 
-import "fmt"
-
-type person struct {
-	name       string
-	age        int
-	profession string
-}
+var name string
+var age int
+var isWorking bool
+var address = []string{}
+var orders = map[string]string{}
 
 func main() {
 
-	fmt.Println()
 }
