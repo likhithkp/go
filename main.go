@@ -1,11 +1,7 @@
 package main
 
-var name string
-var age int
-var isWorking bool
-var address = []string{}
-var orders = map[string]string{}
+import "fmt"
 
-func main() {
-
+func main(){
+  fmt.Println("Hello")
 }
